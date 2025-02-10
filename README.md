@@ -11,4 +11,4 @@ Build using HTML,CSS,JAVASCRIPT.
 4)Closed restaurant display with grayscale image
 5)Restaurant open and close dynamically according to system clock time.
 6)Responsive
-Deployed link:https://github.com/Aayush132004/FoodDelivery_filter
+Deployed link:https://aayush132004.github.io/FoodDelivery_filter/
